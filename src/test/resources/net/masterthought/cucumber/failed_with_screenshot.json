@@ -15,7 +15,7 @@
                 "steps":[
                     {
                         "result":{
-                            "duration":1933000,
+                            "duration":1923000,
                             "status":"failed",
                             "error_message":"ERROR MESSAGE"
                         },
